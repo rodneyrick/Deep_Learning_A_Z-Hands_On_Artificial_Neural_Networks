@@ -1,0 +1,15 @@
+Homework Instruction
+Section 11, Lecture 55
+Homework Instruction
+
+
+
+Take a picture of your dog or your cat and use our CNN model to predict what it is.
+
+If you don't have a dog or a cat, no worries you can still do the Homework. I have provided in the dataset folder a new subfolder called "single_prediction" that contains one image of a dog and one image of a cat. Use our CNN model to predict what these images are.
+
+The solution is provided in the next Lecture but I strongly recommend that you try to solve it on your own. Deep Learning scientists spend most of their time experimenting with their model, whether they need to look for solutions online or not. So even if we have not covered how to make a single prediction yet, try to figure it out on your own, that will be excellent practice for you.
+
+
+
+Enjoy Deep Learning!

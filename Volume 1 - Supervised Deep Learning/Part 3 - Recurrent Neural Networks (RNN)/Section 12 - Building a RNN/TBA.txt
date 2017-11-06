@@ -1,0 +1,22 @@
+Summary & Next Steps
+Section 15, Lecture 80
+
+Summary
+
+ - The reason our predictions are very similar to the inputs is because the network is only learning that the prediction(t) = k * input(t-1), with k a small constant. Therefore it is not relevant.
+
+ - The whole reason why it is not relevant is in the timestep. With our timestep = 1, we train the network by inputing x(t) and learning x(t+1). So what happens is that the states of the hidden layer are reset, after which we input x(t+1) and learn x(t+2), and so on. Hence, since the states are reset after each time t, the network is not learning anything useful, because it is only taking into account the value we are inputting.
+
+ - Therefore, to fix this and improve our model, we need to increase the timestep. And that's exactly what we'll do in the next section: Evaluating, Improving and Tuning the RNN.
+
+ - Extra clarification: the article displayed in the lectures is indeed from Stanford, but it is created by undergraduate students of the CS229 course. The students of that course submitted a final project for evaluation; it was just put online but it is not published anywhere. There is a big difference between reading a Stanford paper published online and reading an assignment written by a group of undergrads.
+
+Next Steps
+ 
+ 1. First, a little Homework just to practice what we have just seen. Only the choice of timestep = 1 is not relevant, the rest is correct so you can already practice with the code to do this first Homework.
+ 
+ 2. Then, you will learn how to evaluate a RNN model, and more generally, a Regression model (a model that predicts a continuous outcome).
+
+ 3. And eventually the most important and final step: we will improve our RNN model, correcting this one timestep defect, by adding more timesteps. We will also consider improving the model by adding more LSTM layers. You will first try to do this final step on your own, this will be the big Homework Challenge of this Part. Good luck with this one.
+
+Enjoy Deep Learning!

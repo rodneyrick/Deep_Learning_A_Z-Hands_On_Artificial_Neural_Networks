@@ -1,0 +1,15 @@
+
+
+Welcome to Part 1 - Artificial Neural Networks
+Section 2, Lecture 5
+
+In this part you will learn:
+
+    1. the Intuition of ANNs
+    2. how to build an ANN
+    3. how to predict the outcome of a single observation (Homework Challenge)
+    4. how to evaluate the performance of an ANN with k-Fold Cross Validation
+    5. how to tackle overfitting with Dropout
+    6. how to do some Parameter Tuning on your ANN to improve its performance
+
+Enjoy Deep Learning!

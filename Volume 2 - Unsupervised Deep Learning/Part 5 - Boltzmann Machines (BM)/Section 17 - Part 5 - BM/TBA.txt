@@ -1,0 +1,24 @@
+Welcome to Part 5 - Boltzmann Machines
+Section 22, Lecture 106
+Welcome to Part 5 - Boltzmann Machines
+
+In this part you will learn:
+
+ 1. the Intuition of Boltzmann Machines
+ 2. how to build a Boltzmann Machine
+
+Boltzmann Machines can be seen from two different points of view:
+
+ 1. An Energy-Based Model
+ 1. A Probabilistic Graphical Model
+
+In the Intuition Lectures Kirill will focus more on the Energy-Based Model point of view, and then for the Practical Lectures we will focus more on the Probabilistic Graphical Model point of view.
+
+In these last two parts (Part 5 - Boltzmann Machines and Part 6 - AutoEncoders) of this course, we will create two types of Recommender Systems:
+
+ 1. One that predicts binary ratings "Like" or "Not Like". We will build it in this Part 5 with a Boltzmann Machine.
+ 2. Another one that predicts ratings from 1 to 5. We will build it in Part 6 with an AutoEncoder.
+
+Enjoy Deep Learning!
+
+Download Data Link: https://www.dropbox.com/home/Public/codes?preview=Boltzmann_Machines.zip

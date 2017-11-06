@@ -1,0 +1,56 @@
+PART 4. SELF ORGANIZING MAPS (SOM)
+
+Datasets & Templates:
+
+Self_Organizing_Maps
+Mega_Case_Study
+Additional Reading:
+
+ - Tuevo Kohonen, 1990, The Self-Organizing Map
+ - Mat Buckland, 2004?, Kohonen's Self Organizing Feature Maps
+ - Nadieh Bremer, 2003, SOM – Creating hexagonal heatmaps with D3.js
+
+
+
+
+PART 5. BOLTZMANN MACHINES (BM)
+
+Datasets & Templates:
+
+Boltzmann_Machines
+Additional Reading:
+
+ - Yann LeCun, 2006, A Tutorial on Energy-Based Learning
+ - Jaco Van Dormael, 2009, Mr. Nobody
+ - Geoffrey Hinton, 2006, A fast learning algorithm for deep belief nets
+ - Oliver Woodford, 2012?, Notes on Contrastive Divergence
+ - Yoshua Bengio, 2006, Greedy Layer-Wise Training of Deep Networks
+ - Geoffrey Hinton, 1995, The wake-sleep algorithm for unsupervised neural networks
+ - Ruslan Salakhutdinov, 2009?, Deep Boltzmann Machines
+
+
+
+
+
+PART 6. AUTOENCODERS (AE)
+
+Datasets & Templates:
+
+AutoEncoders
+Additional Reading:
+
+ - Malte Skarupke, 2016, Neural Networks Are Impressively Good At Compression
+ - Francois Chollet, 2016, Building Autoencoders in Keras
+ - Chris McCormick, 2014, Deep Learning Tutorial – Sparse Autoencoder
+ - Eric Wilkinson, 2014, Deep Learning: Sparse Autoencoders
+ - Alireza Makhzani, 2014, k-Sparse Autoencoders
+ - Pascal Vincent, 2008, Extracting and Composing Robust Features with Denoising Autoencoders
+ - Salah Rifai, 2011, Contractive Auto-Encoders: Explicit Invariance During Feature Extraction
+ - Pascal Vincent, 2010, Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion
+ - Geoffrey Hinton, 2006, Reducing the Dimensionality of Data with Neural Networks
+
+Download Data Link: 
+- https://www.dropbox.com/home/Public/codes?preview=ml-1m.zip
+- https://www.dropbox.com/home/Public/codes?preview=ml-100k.zip
+
+

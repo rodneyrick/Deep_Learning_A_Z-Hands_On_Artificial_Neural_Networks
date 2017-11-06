@@ -1,0 +1,17 @@
+Welcome to Part 6 - AutoEncoders
+Section 25, Lecture 134
+Welcome to Part 6 - AutoEncoders
+
+
+
+In this part you will learn:
+
+    1. the Intuition of AutoEncoders
+    2. how to build an AutoEncoder from scratch with PyTorch
+    3. how to manipulate classes and objects to improve and tune your AutoEncoder
+
+In the previous part we created a Recommender System that predicted binary ratings "Like" or "Not Like". In this part we will take it at the next level and create a Recommender System that predicts ratings from 1 to 5.
+
+
+
+Enjoy Deep Learning!

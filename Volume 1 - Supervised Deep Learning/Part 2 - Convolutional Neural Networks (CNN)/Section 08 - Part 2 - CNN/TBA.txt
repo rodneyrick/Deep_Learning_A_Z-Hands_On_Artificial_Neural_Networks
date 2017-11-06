@@ -1,0 +1,15 @@
+
+Welcome to Part 2 - Convolutional Neural Networks
+Section 8, Lecture 33
+
+
+
+In this part you will learn:
+
+ 1. the Intuition of CNNs
+ 2. how to build an CNN
+ 3. how to predict what is inside a single image (Homework Challenge)
+ 4. how to improve a CNN
+
+
+Enjoy Deep Learning!

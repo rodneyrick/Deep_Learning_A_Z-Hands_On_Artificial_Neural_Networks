@@ -1,0 +1,13 @@
+Annex - Get the Machine Learning Basics
+Section 28, Lecture 161
+Hi guys,
+
+in this part you will find all the Machine Learning basics you need to have a proper understanding of this Deep Learning A-Z course. We highly recommend that you have a look at our Data Preprocessing Template and Classification Template before you start the practical activities in Python. Of course, if you already completed Parts 1, 2 and 3 in our Machine Learning A-Z course, this Annex part is not necessary.
+
+This Annex part is composed of three sections:
+
+    1. Regression & Classification Intuition - with Intuition Lectures about Regression and Classification
+    2. Data Preprocessing Template - with the Step-By-Step Implementation of the Data Preprocessing phase
+    3. Classification Template - with the Step-By-Step Implementation of our Classification template
+    
+Enjoy Deep Learning!

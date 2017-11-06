@@ -1,0 +1,16 @@
+
+Welcome to Part 4 - Self Organizing Maps
+Section 18, Lecture 86
+
+
+
+
+In this part you will learn:
+
+ 1. the Intuition of SOMs
+ 2. how to build a SOM
+ 3. how to return the specific features (like frauds) detected by the SOM
+ 4. how to make a Hybrid Deep Learning model
+
+
+Enjoy Deep Learning!

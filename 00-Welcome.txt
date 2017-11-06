@@ -1,0 +1,30 @@
+BONUS: Meet Your Instructors
+
+Section 1, Lecture 4
+
+Hi there,
+
+Hope you are enjoying the course so far!
+
+Just recently Hadelin and I did our 2nd podcast together! We're extremely excited to share it with you because it's focused on Deep Learning. Listen to this episode to get a bird's eye view of what to expect in this course!
+
+Link: http://superdatascience.com/47
+
+Some of the things you will learn in this podcast:
+- Artificial Neural Networks (ANNs) (06:45)
+- Why Deep Learning Instead of Machine Learning? (09:10)
+- Convolutional Neural Networks (CNNs) and its Applications (18:55)
+- Recurrent Neural Networks (RNNs) and its Applications (23:48)
+- Long-Short Term Memory in RNNs (LSTMs) (27:57)
+- Differences Between Supervised and Unsupervised Deep Learning (29:47)
+- Self-Organizing Maps (SOMs) and How They Work (31:11)
+- All About Boltzmann Machines (40:23)
+- Autoencoders and their Applications (46:27)
+- TensorFlow or PyTorch? (51:45)
+See you in class!
+
+
+
+Sincerely,
+
+Kirill Eremenko
